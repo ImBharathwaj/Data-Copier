@@ -1,4 +1,4 @@
 /dc-venv/
 /requirements.txt
 .git
-.idea
+/.idea
