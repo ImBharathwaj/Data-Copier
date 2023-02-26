@@ -5,7 +5,7 @@ from write import load_db_table
 
 
 def main():
-
+    pass
 
 def orders_db():
     BASE_DIR = '/home/bharathwaj/Code/DE-Sandbox/Data-Copier/retail_db_json/'
